@@ -15,7 +15,7 @@ export default function Footer() {
                 Bonaca
               </span>
             </div>
-            <p className="m-0 text-sm">Vlastita bonaca, na dodir prsta.</p>
+            <p className="m-0 text-sm">Vlastita bonaca, na dodir prsta</p>
           </div>
 
           <div className="flex flex-wrap gap-8 text-sm">
