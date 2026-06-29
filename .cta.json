@@ -1,0 +1,23 @@
+{
+  "projectName": "smart-home-website",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {},
+  "git": true,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "eslint",
+    "shadcn",
+    "t3env",
+    "table",
+    "storybook",
+    "tanstack-query"
+  ]
+}
